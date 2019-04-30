@@ -41,6 +41,8 @@ Note that some of these parameters are explained in details in other sections of
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = ""
+  # Block robots using a meta tag in the head of every page
+  blockRobots = false
 ```
 
 ## Activate search

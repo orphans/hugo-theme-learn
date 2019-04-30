@@ -37,6 +37,8 @@ Notez que certains de ces paramètres sont expliqués en détails dans d'autres 
   ordersectionsby = "weight"
   # Utilisez ce paramètre pour modifier le schéma de couleur du site. Les valeurs par défaut sont "red", "blue", "green".
   themeVariant = ""
+  # Bloquez les robots en utilisant une balise meta en tête de chaque page
+  blockRobots = false
 ```
 
 ## Activer la recherche {#activer-recherche}
